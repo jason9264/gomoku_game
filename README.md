@@ -1,4 +1,4 @@
-##Gomoku Game
+<span style="font-size:3em;">Gomoku Game</span>
 
 This is the main program to play the Gomoku game, a traditional board game where the objective is to align five stones in a row. The program supports loading and saving game states, as well as customizing the board size.
 
